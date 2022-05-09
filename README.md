@@ -3,7 +3,7 @@ CRUD rest api written in Go
 
 ## Dependencies
 - Gorilla Mux
-- GORM, postgresql server
+- GORM, postgresql driver
 ### PostgreSQL is the database
 
 ### Tutorial followed: https://www.youtube.com/watch?v=KPftgI40WHI&t=961s
